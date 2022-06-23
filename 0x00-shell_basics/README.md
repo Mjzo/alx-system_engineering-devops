@@ -1,1 +1,1 @@
-Display the contents list of your current directory
+script that creates a directory
