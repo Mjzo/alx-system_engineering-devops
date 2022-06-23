@@ -1,1 +1,1 @@
-Delete the director
+changes the working directory to the previous one
