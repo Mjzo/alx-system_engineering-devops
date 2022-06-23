@@ -1,1 +1,1 @@
-a script that creates the directories
+cript that creates the directories
