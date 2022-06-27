@@ -1,1 +1,1 @@
-script that duplicates the last line of the file iacta
+cript that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
