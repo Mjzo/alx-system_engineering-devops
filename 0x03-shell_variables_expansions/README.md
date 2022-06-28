@@ -1,1 +1,1 @@
-script that creates a new global variable
+ addition to true knowledge is an addition to human power
