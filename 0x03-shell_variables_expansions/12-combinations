@@ -1,1 +1,2 @@
- script that prints all possible combinations of two letters, except oo
+#!/bin/bash
+printf "%s\n" {a..z}{a..z} | grep -v "oo"
