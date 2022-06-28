@@ -1,1 +1,1 @@
-10-no_more_js
+No more javascript
