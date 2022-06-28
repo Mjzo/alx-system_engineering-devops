@@ -1,1 +1,1 @@
-script that prints hello user
+he path to success is to take massive, determined action
