@@ -1,1 +1,1 @@
- addition to true knowledge is an addition to human power
+script that prints the result of POWER divided by DIVIDE
